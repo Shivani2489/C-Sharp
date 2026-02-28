@@ -1,0 +1,6 @@
+H:\Shivani\C#\Shivani C#\Assignment\Control Assignment\Control_Assignment_01\Control_Assignment_01\obj\Debug\Control_Assignment_01.csproj.AssemblyReference.cache
+H:\Shivani\C#\Shivani C#\Assignment\Control Assignment\Control_Assignment_01\Control_Assignment_01\obj\Debug\Control_Assignment_01.Employee_Details.resources
+H:\Shivani\C#\Shivani C#\Assignment\Control Assignment\Control_Assignment_01\Control_Assignment_01\obj\Debug\Control_Assignment_01.Properties.Resources.resources
+H:\Shivani\C#\Shivani C#\Assignment\Control Assignment\Control_Assignment_01\Control_Assignment_01\obj\Debug\Control_Assignment_01.csproj.GenerateResource.cache
+H:\Shivani\C#\Shivani C#\Assignment\Control Assignment\Control_Assignment_01\Control_Assignment_01\obj\Debug\Control_Assignment_01.csproj.CoreCompileInputs.cache
+H:\Shivani\C#\Shivani C#\Assignment\Control Assignment\Control_Assignment_01\Control_Assignment_01\obj\Debug\Control_Assignment_01.frm_Emp_General_Details.resources
