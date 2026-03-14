@@ -1,0 +1,34 @@
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\bin\Debug\Controls_Assignment.exe.config
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\bin\Debug\Controls_Assignment.exe
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\bin\Debug\Controls_Assignment.pdb
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.AssemblyReference.cache
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\obj\Debug\Controls_Assignment.Properties.Resources.resources
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\obj\Debug\Controls_Assignment.Windows_Tools.resources
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.GenerateResource.cache
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.CoreCompileInputs.cache
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\obj\Debug\Controls_Assignment.exe
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\obj\Debug\Controls_Assignment.pdb
+G:\C# Proj 10\Windows Form Assignments\Assignment 05\Controls_Assignment\obj\Debug\Controls_Assignment.Use_CheckBox_CheckListBox.resources
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\bin\Debug\Controls_Assignment.exe.config
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\bin\Debug\Controls_Assignment.exe
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\bin\Debug\Controls_Assignment.pdb
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.Properties.Resources.resources
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.Use_CheckBox_CheckListBox.resources
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.Windows_Tools.resources
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.GenerateResource.cache
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.CoreCompileInputs.cache
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.exe
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.pdb
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.AssemblyReference.cache
+G:\C# Proj 10\Windows Form Assignments\Assignment 05 - V 02\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.SuggestedBindingRedirects.cache
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\bin\Debug\Controls_Assignment.exe.config
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\bin\Debug\Controls_Assignment.exe
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\bin\Debug\Controls_Assignment.pdb
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.AssemblyReference.cache
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\obj\Debug\Controls_Assignment.Properties.Resources.resources
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\obj\Debug\Controls_Assignment.Use_CheckBox_CheckListBox.resources
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\obj\Debug\Controls_Assignment.Windows_Tools.resources
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.GenerateResource.cache
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.CoreCompileInputs.cache
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\obj\Debug\Controls_Assignment.exe
+H:\C# Proj14\Windows_Assignments\Assignment 06\Controls_Assignment\obj\Debug\Controls_Assignment.pdb
